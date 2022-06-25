@@ -1,0 +1,19 @@
+#container-fluid.Cart.border-rounded.row.img.row.img{
+    height:150px;
+    border-style: solid;
+    width: 150px;
+
+}
+
+.img{
+    height:150px;
+    border-style: solid;
+    width: 150px;
+
+}
+
+
+button{
+    display: inline-block;
+
+}
